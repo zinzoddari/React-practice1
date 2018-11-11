@@ -3,11 +3,11 @@ import React, { Component, Fragment } from 'react';
 
 import './App.css';
 
-import MyName from './MyName';
-
+//import MyName from './MyName';
+import Counter from './Counter';
 class App extends Component {
   render() {
-    return <MyName name="진조" />;
+    return <Counter />;
   }
 }
 

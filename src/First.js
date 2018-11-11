@@ -1,6 +1,6 @@
 import Reace, { Component } from 'react';
 
-class Parents extends Component {
+class First extends Component {
   //컴포넌트 만드는 방법중 하나인 Class로 만든다 2번째 방법은 함수를 통해 만듬
   render() {
     // = method, 꼭 jsx 형식으로 return 해야된다
@@ -90,4 +90,4 @@ class Parents extends Component {
   }
 }
 
-export default Parents;
+export default First;

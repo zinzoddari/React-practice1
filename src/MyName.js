@@ -1,5 +1,7 @@
 import React from 'react';
 
+//props는 읽기 전용
+
 //클래스형
 /*class MyName extends Component
 {//모든 Component는 Render 함수가 있어야함
