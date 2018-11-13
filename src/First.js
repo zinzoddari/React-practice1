@@ -1,4 +1,4 @@
-import Reace, { Component } from 'react';
+import React, { Component } from 'react';
 
 class First extends Component {
   //컴포넌트 만드는 방법중 하나인 Class로 만든다 2번째 방법은 함수를 통해 만듬
